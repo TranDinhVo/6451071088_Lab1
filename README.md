@@ -1,7 +1,4 @@
-# 6451071088_Lab1 - Khai phá dữ liệu - Báo cáo thực hành buổi 1
-
-- **Sinh viên:** Trần Đình Võ - **MSSV:** 6451071088
-- **GVHD:** ThS. Nguyễn Thiện Dương
+# 6451071088_Lab1 - Khai phá dữ liệu - Thực hành buổi 1
 
 Mỗi câu là một file notebook riêng, đặt tên theo cú pháp `<MSSV>_LAB1_Bai<X>_T<trang>_Cau<n>.ipynb`.
 
